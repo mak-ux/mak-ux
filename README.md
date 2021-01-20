@@ -1,7 +1,8 @@
 ### Hi there 👋
+I am Kanhaiya Lal
 
 <!--
-**mak-ux/mak-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pankajkumarbij/pankajkumarbij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Kanhaiya's github stats](https://github-readme-stats.vercel.app/api?username=mak-ux&show_icons=true&theme=radical)](https://github.com/mak-ux)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mak-ux&layout=compact&langs_count=8&theme=monokai)](https://github.com/mak-ux)
+
+

@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![Kanhaiya's github stats](https://github-readme-stats.vercel.app/api?username=mak-ux&show_icons=true&theme=radical)](https://github.com/mak-ux)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mak-ux&layout=compact&langs_count=8&theme=monokai)](https://github.com/mak-ux)
 
 

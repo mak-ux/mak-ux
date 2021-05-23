@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Pssionate to explore new technologies.
+- 🤔 &nbsp; Passionate to explore new technologies.
 - 🎓 &nbsp; Studying of Electronics and Communication Engineering at IIITM.
 - 🌱 &nbsp; Learning more about MERN STack development, Web development lifecycle.
 - 🌱 &nbsp; Exploring data structures and algorithms.

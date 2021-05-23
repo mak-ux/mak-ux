@@ -45,7 +45,7 @@
 
 <p align="center">
 <a href="https://fullstackbugglers.github.io/kanhaiya_Resume/"><img alt="Website" src="https://img.shields.io/badge/Website-https://fullstackbugglers.github.io/kanhaiya_Resume/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/kanhaiya-lal-7508a6187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kanhaiya-lal-7508a6187/-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kanhaiya-lal-7508a6187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kanhaiya%20Lal-blue?style=flat-square&logo=linkedin"></a>
 <a href="kanhaiya@iiitmanipur.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-kanhaiya@iiitmanipur.ac.in-blue?style=flat-square&logo=gmail"></a>
 </p>
 

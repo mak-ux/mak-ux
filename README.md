@@ -3,9 +3,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Pssionate to explore new technologies.
 - 🎓 &nbsp; Studying of Electronics and Communication Engineering at IIITM.
-- 🌱 &nbsp; Learning more about MERN STack development, Systems Design and comptetive programming.
+- 🌱 &nbsp; Learning more about MERN STack development, Web development lifecycle.
+- 🌱 &nbsp; Exploring data structures and algorithms.
 - ✍️ &nbsp; Vlogging and  Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
